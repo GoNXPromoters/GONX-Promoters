@@ -14946,7 +14946,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .flexslider-overlay {
-	background-color: rgba(31, 39, 50, 0.7);
+	background-color: rgba(31, 39, 50, 0);
 	bottom: 0;
 	content: "";
 	display: block;
@@ -22819,15 +22819,15 @@ input[type="text"].search-text {
 }
 
 .book-item .book .stage.book-1 div {
-	background-image: url("../images/book-hov-3.png");
+	background-image: url("../images/book-hov-1.jpg");
 }
 
 .book-item .book .stage.book-2 div {
-	background-image: url("../images/book-hov-2.png");
+	background-image: url("../images/book-hov-2.jpg");
 }
 
 .book-item .book .stage.book-3 div {
-	background-image: url("../images/book-hov-1.png");
+	background-image: url("../images/book-hov-3.jpg");
 }
 
 .book-item .book .stage * {
