@@ -1491,7 +1491,7 @@ progressbar*/
 }
 
 .owl-carousel .owl-dots .owl-dot {
-	*display: inline;
+	display: inline;
 	display: inline-block;
 	zoom: 1;
 }
@@ -1830,7 +1830,7 @@ Owl Default Theme
 }
 
 .testimonials-sliders.ds .owl-dots .owl-dot {
-	*display: inline;
+	display: inline;
 	display: inline-block;
 	zoom: 1;
 }
@@ -2051,7 +2051,7 @@ html[xmlns] .slides {
 
 /* Direction Nav */
 .flex-direction-nav {
-	*height: 0;
+	height: 0;
 }
 
 .flex-direction-nav a {
@@ -2173,7 +2173,7 @@ html[xmlns] .slides {
 }
 
 .flex-control-nav li {
-	*display: inline;
+	display: inline;
 	display: inline-block;
 	padding: 0 14px;
 	text-align: center;
@@ -13189,7 +13189,7 @@ a img.aligncenter {
 	}
 
 	.sf-menu li {
-		*white-space: normal;
+		white-space: normal;
 		white-space: nowrap;
 	}
 
@@ -13308,7 +13308,7 @@ a img.aligncenter {
 	.sf-menu > li .mega-menu,
 	.sf-menu li > ul {
 		/* allow long menu items to determine submenu width */
-		*width: 10em;
+		width: 10em;
 		background-color: #fff;
 		border-top: 4px solid #ff497c;
 		box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -18140,6 +18140,8 @@ h4.comments-title {
 .vertical-item .item-media + .item-content.widget-content .widget-content {
 	font-weight: 600;
 	line-height: 20px;
+	color: #000;
+	font-size: 20px;
 }
 
 .comments-area.comment1 .comment-body.comment-form {
