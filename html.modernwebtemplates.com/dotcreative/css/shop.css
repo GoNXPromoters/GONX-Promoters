@@ -400,7 +400,7 @@ ul.products.owl-carousel .product h2 {
 @media (min-width: 576px) {
 	.product .images {
 		float: left;
-		width: 47%;
+		width: 100%;
 	}
 }
 
