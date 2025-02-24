@@ -19919,8 +19919,10 @@ a.btn {
 }
 
 @media (max-width: 767px) {
+	
 	.contact3 .border-icon {
 		margin-top: 20px;
+	
 	}
 
 	.contact3 .border-icon .teaser-icon img {
@@ -19935,7 +19937,8 @@ a.btn {
 
 @media (max-width: 991px) {
 	p.teaser-content {
-		font-size: 13px;
+		font-size: 18px;
+		color: #000;
 	}
 }
 
@@ -23222,4 +23225,17 @@ h5 {
 
 .checkbox-slider--b-flat input+span:before {
 	box-shadow: none;
+}
+
+
+.map-container {
+	width: 100%;
+	max-width: 800px;
+	height: 400px;
+	margin: auto;
+}
+iframe {
+	width: 80%;
+	height: 45vh;
+	border: 0;
 }
