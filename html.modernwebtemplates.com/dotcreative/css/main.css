@@ -15506,7 +15506,7 @@ body.active-side-header.slide-right .page_header_side {
 ** Blog
 */
 .blog_slider {
-	margin-bottom: 60px;
+	padding-bottom: 20rem;
 }
 
 @media (min-width: 992px) {
@@ -16675,7 +16675,8 @@ h4.comments-title {
 }
 
 .post-icons .first {
-	padding-left: 37px;
+	/* padding-left: 37px; */
+	font-size: 24px;
 }
 
 .post-icons .social {
@@ -17331,7 +17332,7 @@ h4.comments-title {
 }
 
 .post5 .entry-meta {
-	line-height: 1;
+	line-height: 3;
 	position: relative;
 	text-align: left;
 }
@@ -17339,7 +17340,7 @@ h4.comments-title {
 .post5 .entry-meta>* {
 	color: #fff;
 	display: inline-block;
-	font-size: 12px;
+	font-size: 20px;
 	font-weight: 600;
 	letter-spacing: 0.2em;
 	line-height: 1.6;
@@ -19919,10 +19920,10 @@ a.btn {
 }
 
 @media (max-width: 767px) {
-	
+
 	.contact3 .border-icon {
 		margin-top: 20px;
-	
+
 	}
 
 	.contact3 .border-icon .teaser-icon img {
@@ -23234,6 +23235,7 @@ h5 {
 	height: 400px;
 	margin: auto;
 }
+
 iframe {
 	width: 80%;
 	height: 45vh;
