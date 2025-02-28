@@ -194,6 +194,10 @@ h6 {
 	}
 }
 
+.location{
+	height: 2rem;
+}
+
 h1:first-child,
 h2:first-child,
 h3:first-child,
@@ -16649,15 +16653,16 @@ h4.comments-title {
 	background-color: #1f2732c4;
 	display: block;
 	margin-bottom: 0;
-	margin-top: -60px;
+	margin-top: -90px;
 	padding: 20px 0;
 	position: relative;
 	z-index: 1;
 }
 
 .post-icons a {
-	color: #fff;
-	text-align: left;
+	/* color: #fff; */
+	/* width: 20px; */
+	text-align: center;
 }
 
 .post-icons a:hover {
@@ -16676,7 +16681,7 @@ h4.comments-title {
 
 .post-icons .first {
 	/* padding-left: 37px; */
-	font-size: 24px;
+	font-size: 12px;
 }
 
 .post-icons .social {
@@ -16696,7 +16701,7 @@ h4.comments-title {
 }
 
 .post3 .gallery-blog.gallery-owl-nav .owl-nav>div {
-	height: 60px;
+	height: 50px;
 	width: 70px;
 }
 
